@@ -1,0 +1,101 @@
+/*
+  Localizable.strings
+  Fosunhani
+
+  Created by 州付 on 2021/10/11.
+  
+*/
+//一键登录
+"登录成功" = "Login successful";
+"登录失败" = "Login failed";
+"本机号码一键登录/注册" = "One-click login/register";
+"切换" = "Switch";
+"中国移动认证服务条款" = "China Mobile terms";
+"用户协议、隐私声明" = "User agreement, privacy";
+
+"我已阅读并同意" = "I agree to the agreement, privacy";
+"并授权星财富获得本机号码" = "And authorize Star Wealth to obtain the device number";
+"更多登录方式" = "More login methods";
+"用户协议" = "User agreement";
+"kick_act_alert" = "Your account is logged in elsewhere. Please confirm if it's you. If not, please log in again or contact customer service";
+"您的登录已失效，请重新登录" = "Your login has expired. Please log in again";
+
+//账号密码登录界面
+"登录密码" = "Login password";
+"手机号/邮箱" = "Phone/Email";
+"手机号" = "Phone";
+"邮箱" = "Email";
+"第三方账号绑定" = "Third-party bind";
+"注销账号" = "Delete account";
+"账号密码登录" = "Account login";
+"请正确输入邮箱/手机号" = "Enter valid email/phone";
+"密码格式错误" = "Password format error";
+"用户协议及隐私声明" = "Agreement & privacy";
+"不同意" = "Disagree";
+"同意并登录" = "Agree & login";
+"用户协议、" = "Agreement,";
+"《用户协议》、" = "User agreement,";
+"《第三方信息共享清单》" = "Third-party info list";
+"《隐私政策》" = "Privacy policy";
+"隐私声明" = "Privacy statement";
+"account_agreement_text" = "I agree to the agreement, privacy";
+"account_agreement_alert" = "Thank you for choosing us. Please read and understand the User Agreement, Privacy Policy, and Third-party Info List. We will request system permissions for device info, logs, MAC address, and app list for security and notifications. We strive to protect your personal info. You can access, correct, delete your info, and manage permissions. We provide channels for account deletion and complaints. If you agree, click agree to continue using our services.";
+
+"登录" = "Login";
+"短信验证码登录" = "SMS code login";
+"短信验证登录" = "SMS code login";
+"忘记密码" = "Forgot password";
+
+//短信验证码登录界面
+"首次登录自动注册账号" = "First login auto-register";
+"请点击同意用户协议" = "Click to agree to the agreement";
+"获取验证码" = "Get code";
+"请输入正确的手机号" = "Enter valid phone";
+"收不到验证码?" = "Can't receive code?";
+
+//身份证校验界面
+"请填写开户证件号进行身份验证，开户证件号不区分大小写，且无须输入括号" = "Enter ID for verification, case-insensitive, no brackets";
+"校验失败" = "Verification failed";
+"身份验证" = "Identity verification";
+"开户证件号" = "ID number";
+"开户证件号不区分大小写字母。如是香港身份证无须输入括号。" = "ID number is case-insensitive. No brackets for HK ID.";
+"示例如下：" = "Example:";
+"内地身份证：" = "Mainland ID:";
+"香港身份证：" = "HK ID:";
+"内地护照：" = "Mainland passport:";
+
+//验证码验证页面
+"输入短信验证码" = "Enter SMS code";
+"输入邮箱验证码" = "Enter email code";
+"已发送验证码至 " = "Code sent to ";
+"重新发送" = "Resend";
+"重新获取" = "Retrieve";
+"知道了" = "Got it";
+"已发送邮箱验证码至: " = "Email code sent to: ";
+"验证码已过期，请重新发送" = "Code expired, resend";
+"您操作过于频繁，请稍后再试" = "Too frequent, try later";
+"验证码错误或已过期，您还有%d次机会" = "Code error/expired, %d tries left";
+"修改成功" = "Change successful";
+"认证成功" = "Verification successful";
+"您可以联系客服进行验证码查询。" = "Contact support for code query.";
+"内地客服：" = "Mainland support:";
+"香港客服：" = "HK support:";
+"验证失败，请重新验证" = "Verification failed, retry";
+"忘记交易密码" = "Forgot trade password";
+
+//修改密码界面
+"新旧密码不能一致" = "New/old password can't match";
+"您的登录密码已修改，请重新登录" = "Password changed, re-login";
+"输入原密码" = "Enter old password";
+"确定" = "Confirm";
+"修改登录密码" = "Change login password";
+"忘记登录密码" = "Forgot login password";
+
+//视频上传检验页面
+"开始拍摄" = "Start recording";
+"人脸识别" = "Face recognition";
+"前置摄像头拍摄一段约2-5秒的本人面部视频" = "Record 2-5s face video";
+"温馨提示" = "Reminder";
+"联系客服" = "Contact support";
+"customer_service_detail" = "Click start to upload video for ID verification. Only face needed, no actions. Contact support if issues.";
+"延时行情不支持选股器功能。" = "Delayed quotes don't support stock picker.";
